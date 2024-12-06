@@ -15,7 +15,7 @@ Nyumba Quest is a 2D adventure game developed using Python and Pygame. Navigate 
 
 ## Prerequisites
 
-- Python 3.7+
+- Python 3.7
 - Pygame library
 
 ## Installation
